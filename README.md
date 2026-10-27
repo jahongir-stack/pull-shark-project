@@ -1,2 +1,2 @@
-_## My first GitHub contribution
-asalom shark
+## Contributors
+This project demonstrates GitHub collaboration.
